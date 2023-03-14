@@ -42,7 +42,7 @@ public class DadosAluno{
     }
     
     public void setNomeAluno(String nomeAluno){
-        this .nomeAluno = nomeAluno;
+        this.nomeAluno = nomeAluno;
     }
     
     
